@@ -14,6 +14,6 @@ Contributed artwork can be in any image format. There are just three requirement
 3. Images must be 256×256 or higher in resolution.  
 
 ### Contribute via Ko-Fi  
-The automatic contribution of artwork and the reporting of missing artwork require the use of [webhook.site](https://webhook.site/). I currently use a free account, which provides a URL for seven days or 100 requests. As popularity grows, we’re now exceeding the 100-request limit every few days.  
+This project uses [webhook.site](https://webhook.site/) to automatically contribute game artwork and report missing artwork to this database. I’m currently on a free account, which provides a temporary URL for seven days or 100 requests. As the project grows in popularity, we're exceeding the 100-request limit every few days. A paid subscription costs $9/month or $90/year, donations would help fund this.
 
-A paid subscription costs $9/month or $90/year. Donations would allow me to fund this. If you appreciate my work and want to support the continued development of the PSBBN Definitive English Patch and other PS2-related projects, [you can donate to my Ko-Fi here](https://ko-fi.com/cosmicscale). 
+If you appreciate my work and want to support the ongoing development of the PSBBN Definitive English Patch and other PS2-related projects, [you can donate to my Ko-Fi here](https://ko-fi.com/cosmicscale).
