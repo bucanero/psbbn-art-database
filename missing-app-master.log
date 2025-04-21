@@ -7,3 +7,4 @@ CHEATDEVICE,Cheat Device,CheatDevice.ELF
 SYS_IGR,[VMC] Return to Boot Card,IGR.ELF
 APP_ARGON,[APP] Argon XMB Media Player,ARGON.ELF
 FMCBINSTALL,FMCBInstaller,FMCBInstaller.elf
+FC,FC,FC.ELF
