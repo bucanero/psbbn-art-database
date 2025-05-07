@@ -17,3 +17,5 @@ NETFS,Netfs,NETFS.ELF
 HDDCHECKER,HDD Checker,HDDChecker.elf
 R0004,R0004,r0004v002.elf
 VTSPS2HBDLH,VTSPS2-HBDL - HomeBrew DownLoader,VTSPS2-HBDL.elf
+MECHACONCRA,Mechacon Crash Tester,mechacon_crash_tester.elf
+AURA,Aura,aura.elf
