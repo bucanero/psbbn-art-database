@@ -14,3 +14,4 @@ VTSPS2HBDLH,VTSPS2-HBDL - HomeBrew DownLoader,VTSPS2-HBDL.elf
 MECHACONCRA,Mechacon Crash Tester,mechacon_crash_tester.elf
 AURA,Aura,aura.elf
 DBG_PS2LINK-,[DBG] PS2LINK External IRXs,PS2LINK-EXTIRX.ELF
+PS2IDENTNP,PS2 Ident NP,PS2Ident_np.elf
