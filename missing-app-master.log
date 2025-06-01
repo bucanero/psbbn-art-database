@@ -15,3 +15,5 @@ MECHACONCRA,Mechacon Crash Tester,mechacon_crash_tester.elf
 AURA,Aura,aura.elf
 DBG_PS2LINK-,[DBG] PS2LINK External IRXs,PS2LINK-EXTIRX.ELF
 PS2IDENTNP,PS2 Ident NP,PS2Ident_np.elf
+BROWSERARCA,Browser Arcade,BROWSER_ARCADE.elf
+PS2TOOLHUB,PS2 Tool Hub,PS2 ToolHub.elf
