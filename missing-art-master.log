@@ -43,8 +43,6 @@ SLPM_624.61 Shikigami no Shiro II (Shokai Gentei)
 SLES_037.50 Panzer Front bis
 SLES_528.54 Capcom Fighting Jam
 SLES_520.44 Crescent Suzuki Racing
-SCES_511.90 Dark Chronicle
-SCES_533.28 Genji
 SLPS_256.57 Kakutou Bijin Wulong
 SLPM_626.46 Oretachi Geesen Zoku: Sonic Wings
 SLPM_626.60 Oretachi Geesen Zoku: Super Volleyball
@@ -183,7 +181,6 @@ SLPS_002.03 Tenchi o Kurau II: Sekiheki no Tatakai
 SLES_533.18 Crazy Golf: World Tour
 SLES_528.64 MX World Tour
 SCES_013.31 Tombi!
-SLES_539.74 Dragon Quest: The Journey of the Cursed King
 SLPM_660.51 Need for Speed: Underground 2: SHA_DO
 SLES_517.41 1945 I & II
 SLPM_685.24 Metal Gear Online
@@ -196,7 +193,6 @@ SLES_555.98 Hugo: Magic in the Trollwoods
 SLES_529.80 Big Mutha Truckers 2: Truck Me Harder
 SLES_503.50 Disney's Tarzan: Freeride
 SLES_546.31 Harley-Davidson Motor Cycles
-SCES_519.71 Jet Li: Rise to Honour
 SLES_532.31 Le Avventure di Lupin III: Il Tesoro del Re Stregone
 SLES_549.73 Le Avventure di Lupin III: Lupin la Morte, Zenigata l'Amore
 SLPS_254.73 One Piece: Grand Battle! Rush
@@ -921,7 +917,6 @@ SLPS_256.04 Ar tonelico: Sekai no Owari de Utai Tsuzukeru Shoujo
 SCPS_150.40 Arc the Lad: Seirei no Tasogare
 SCPS_150.58 Arc the Lad: Generation
 SLPM_650.22 Biohazard: Code: Veronica: Kanzenban
-SCPS_151.11 Brave Story: Wataru no Bouken
 SLPM_651.96 Breath of Fire V: Dragon Quarter
 SLPS_252.23 Canvas: Sepia-iro no Motif
 SLPM_662.64 Canvas 2: Nijiiro no Sketch (DX Pack)
@@ -936,7 +931,6 @@ SLPM_552.40 ef: A Fairy Tale of the Two. (Shokai Gentei)
 SLPM_663.38 Eve: New Generation
 SLPS_251.38 Ever 17: The Out of Infinity (Shokai Genteiban)
 SLPM_653.73 Garasu no Bara
-SCPS_150.95 Genji
 SLPM_662.86 Gensou Suikoden V
 SLPM_650.73 Gensou Suikoden III (Shokai Genteiban)
 SLPM_656.00 Gensou Suikoden IV (Shokai Seisanban)
@@ -1009,8 +1003,6 @@ SLPM_669.28 Your Memories Off: Girl's Style
 SLPM_658.30 Ys: The Ark of Napishtim (Shokai Seisanban)
 SLPS_252.05 Ys I & II: Eternal Story (Tokubetsu Genteiban)
 SCPM_853.01 Gran Turismo Concept: Copen Special Edition (Taikenban)
-PAPX_905.06 Dark Chronicle (Taikenban)
-SLES_533.63 Shin Megami Tensei: Lucifer's Call
 SLPS_011.72 Soukyuu Gurentai: Oubu Shutsugeki
 SLPS_256.76 Kinnikuman: Muscle Grand Prix Max
 SCKA_200.56 LuluRara Noraebang Vol. 1
@@ -1055,7 +1047,6 @@ SCKA_200.51 Degul Degul Jjondeuk Jjondeuk: Goehon
 SLKA_253.01 Digital Devil Saga 2: Avatar Tuner
 SCKA_200.57 Everybody's Golf 4
 SLKA_253.61 Gaeguri Jungsa Keroro: Bulkkottwineun Battle Royale Z
-SCKA_200.52 Genji
 SLKA_251.32 Gidong Jeonsa Gundam: Haehu-ui Uju
 SCKA_300.02 God of War: Yeonghonui Banyeokja
 SCKA_200.25 Goehon: Gulryeora! Wangjanim!
@@ -1417,7 +1408,6 @@ SLPS_009.27 Arcade Gears: Wonder 3
 SLPS_008.22 Fighters' Impact
 SLPS_013.13 Fighting Eyes
 SLPS_005.38 Fist
-SCPS_150.33 Dark Chronicle
 SCUS_972.69 PlayOnline Viewer and Tetra Master
 SLPM_866.93 Dance Dance Revolution: Best Hits
 SCES_547.04 Monsterspass
@@ -1564,9 +1554,6 @@ SLPM_668.97 Xyanide
 SLPM_622.69 Akagi: Yami ni Oritatta Tensai
 SLES_015.97 Egypte 1156 AV. J.-C.: L'Énigme de la Tombe Royale
 SCED_511.87 SCEE Catalogue Video
-SLPS_032.20 Matsumoto Reiji 999: Story of Galaxy Express 999 (Disc 1)
-SLPS_032.21 Matsumoto Reiji 999: Story of Galaxy Express 999 (Disc 2)
-SCPS_100.48 Rurouni Kenshin: Meiji Kenkaku Romantan: Juuyuushi Inbou-hen
 SCED_033.75 Official PlayStation Magazine Best Games Ever 2000
 SLES_539.68 Le Parrain
 SCES_037.45 Disney's Party mit Winnie Puuh
@@ -1590,7 +1577,6 @@ SLES_013.45 Command & Conquer: Alarmstufe Rot: Gegenschlag (Disc 1) (Die Alliier
 SLES_105.32 Command & Conquer: Teil 1: Der Tiberiumkonflikt (Disc 2) (NOD)
 SLES_110.07 Command & Conquer: Alarmstufe Rot (Disc 2)
 SLES_113.45 Command & Conquer: Alarmstufe Rot: Gegenschlag (Disc 2) (Die Sowjets)
-SLES_014.21 Formula 1 98
 SLPS_012.76 Misa no Mahou Monogatari (Disc 1)
 SLPS_012.77 Misa no Mahou Monogatari (Disc 2)
 SLES_020.70 Puchi Carat
@@ -1632,3 +1618,21 @@ SLES_544.94 Little Britain: The Video Game
 SLES_549.19 Agent Hugo: Lemoon Twist
 SLES_556.23 Disney's Pixar Istoriya Igrushek: Bol'shoj Pobeg
 SLPM_871.32 Mini-Moni. Shakatto Tambourine! da Pyon!
+SLPM_862.74 Reikoku: Ikeda Kizoku Shinrei Kenkyuujo
+SLPS_025.01 Robin Lloyd no Bouken
+SLPS_003.50 Samurai Spirits: Zankurou Musouken
+SLPS_030.01 Smash Court 3
+SLPM_865.80 SuperLite 1500 Series: Cyber Daisenryaku: Shutsugeki! Haruka-tai
+SLPS_027.30 Suzu Monogatari
+SLPS_001.16 Tadaima Wakusei Kaitaku-chuu!
+SCPS_100.44 Tamago de Puzzle
+SLPS_024.27 Tantei Jinguuji Saburou: Tomoshibi ga Kienu Ma ni
+SLPS_030.14 Tantei Jinguuji Saburou: Yume no Owari ni
+SLPS_030.16 Tantei Jinguuji Saburou: Mikan no Report
+SLPS_031.37 Tantei Jinguuji Saburou: Early Collection
+SLPM_867.38 Techno BB
+SLPM_863.68 Ten made Jack: Odoroki Mamenoki Daitoubou!!
+SLPS_005.58 Vermin Kids
+SLPS_016.95 Waku Waku Volley
+SLES_521.04 Tak und die Macht des Juju
+SCES_502.44 This Is Football 2002
