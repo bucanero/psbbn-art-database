@@ -240,3 +240,16 @@ MEMORYMANAG,Memory Manager Datel,Memory-Manager-Datel.ELF
 COGSWAP,Cogswap,COGSWAP.elf
 CLLIVEDEBUG,CL Live Debug,CL-LiveDebug v3.0.4b.elf
 CDLOADER,Cdloader,CDLOADER.elf
+XPLODERHDTV,XPloder HDTV Player,XPloder HDTV Player.ELF
+BLAZEVGA,Blazevga,BLAZEVGA.ELF
+GAME,Game,game.elf
+MINECRAFT,Minecraft,Minecraft.elf
+CHEAT-DEVICE[NTSC],Cheat Device [NTSC],CHEATDEVICE.ELF
+VECXFORPS2,VecX For PS2,VecX for PS2 v0.2.elf
+TOPS2,TO PS2,TOPS2 v1.0.elf
+PS2BOR,PS2 BOR,PS2Bor v0.1b.elf
+FORTUNAFMCB,Fortuna FMCB Launcher,Fortuna FMCB Launcher v0.2 (packed).elf
+DVDELFDUMPE,DVD ELF Dumper,DVD ELF Dumper.elf
+DMSHDDDUMP,DMS HDD Dump,DMS-HDD-DUMP.ELF
+DAEDALUSNEW,Daedalus Newtoolchain,Daedalus-newtoolchain.elf
+BM2,BM2,BM2.ELF
