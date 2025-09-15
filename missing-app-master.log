@@ -253,3 +253,5 @@ DVDELFDUMPE,DVD ELF Dumper,DVD ELF Dumper.elf
 DMSHDDDUMP,DMS HDD Dump,DMS-HDD-DUMP.ELF
 DAEDALUSNEW,Daedalus Newtoolchain,Daedalus-newtoolchain.elf
 BM2,BM2,BM2.ELF
+APAFIXER,APA Fixer,APA-Fixer.elf
+620BOOT,620 Boot,620_BOOT.elf
