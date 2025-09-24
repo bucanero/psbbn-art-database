@@ -255,3 +255,12 @@ DAEDALUSNEW,Daedalus Newtoolchain,Daedalus-newtoolchain.elf
 BM2,BM2,BM2.ELF
 APAFIXER,APA Fixer,APA-Fixer.elf
 620BOOT,620 Boot,620_BOOT.elf
+KHN,KHN,KHN.ELF
+HDL-GameInstall,zAPP - PS2 HDD Game Installer,HDLGameInstaller.elf
+APP_CHEATDEVICE-MMCE,[APP] Cheat Device PS2BBL MMCE Forwarder,CHEATDEVICE-MMCE-PS2BBL.ELF
+DST_MECHACON,[DST] MechaconCrashTestAPP,mechacon_crash_tester.elf
+DST_PS2-RDRA,[DST] PS2 RDRAM Test,PS2-RDRAMTEST.ELF
+DST_ROMVERCH,[DST] ROM Version Checker,ROMVERCHK.ELF
+DUMPBIOSMAS,Dumpbios Mass,DUMPBIOS-MASS.ELF
+LCHGINST12,Lchginst12,LCHGINST12.ELF
+HWCLANGUAGE,HWC Language Selector,HWC_Language_Selector.ELF
