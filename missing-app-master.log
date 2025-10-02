@@ -264,3 +264,6 @@ DST_ROMVERCH,[DST] ROM Version Checker,ROMVERCHK.ELF
 DUMPBIOSMAS,Dumpbios Mass,DUMPBIOS-MASS.ELF
 LCHGINST12,Lchginst12,LCHGINST12.ELF
 HWCLANGUAGE,HWC Language Selector,HWC_Language_Selector.ELF
+MEDIAPLAYER,Media Player,Media player.ELF
+KELFBINDERD,KELFBinder Debug Udpbd,KELFBinder_debug_udpbd.elf
+PS2BBLOPENT,PS2 BBL Open Tuna Installer,PS2BBL_OpenTuna_Installer.ELF
